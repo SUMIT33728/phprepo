@@ -1,3 +1,3 @@
 <?php 
-	echo "Modified App- Deploying PHP APP Using CICD PIpeline";
+	echo "Learning to deploy PHP App on OpenShift Cluster";
 ?>
